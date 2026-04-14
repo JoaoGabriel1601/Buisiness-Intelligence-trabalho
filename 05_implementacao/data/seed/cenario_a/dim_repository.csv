@@ -1,0 +1,11 @@
+repository_id,repo_name,repo_full_name,squad,tech_stack,service_type,criticality_level,ai_adoption_level,ai_tool_used,adoption_date,total_contributors,creation_date
+1,payment-service,techflow/payment-service,Payments,Python,backend,critical,high,Copilot,2025-03-01,7,2019-04-28
+2,api-gateway,techflow/api-gateway,Platform,Go,backend,critical,high,Copilot,2025-03-01,12,2022-10-07
+3,user-service,techflow/user-service,Platform,Node.js,backend,high,high,Cursor,2025-03-01,11,2021-07-14
+4,billing-engine,techflow/billing-engine,Payments,Java,backend,critical,medium,Copilot,2025-03-01,7,2022-02-15
+5,growth-web,techflow/growth-web,Growth,TypeScript,frontend,medium,high,Cursor,2025-03-01,21,2019-02-11
+6,mobile-app,techflow/mobile-app,Mobile,TypeScript,mobile,high,medium,Copilot,2025-03-01,22,2022-06-02
+7,data-pipeline,techflow/data-pipeline,Data,Python,data,medium,low,none,2025-03-01,5,2020-07-16
+8,analytics-api,techflow/analytics-api,Data,Python,backend,low,medium,Copilot,2025-03-01,6,2022-09-27
+9,infra-config,techflow/infra-config,Platform,Go,infra,critical,none,none,,11,2021-09-06
+10,notifications-svc,techflow/notifications-svc,Growth,Node.js,backend,medium,high,Cursor,2025-03-01,23,2020-01-28

@@ -1,0 +1,41 @@
+engineer_id,full_name,github_username,role,seniority_level,squad,uses_ai_tools,ai_tool_name,ai_adoption_date,experience_years,hire_date,is_reviewer
+1,Henry Gabriel Alves,halves,Junior Engineer,L1,Data,True,Cody,2025-03-01,4,2022-08-14,False
+2,Samuel Câmara,scâmara,Pleno Engineer,L2,Platform,True,Copilot,2025-03-01,6,2021-06-19,False
+3,Gustavo Rocha,grocha,Pleno Engineer,L2,Payments,True,Cursor,2025-03-01,3,2024-12-01,False
+4,Erick Pastor,epastor,Senior Engineer,L3,Data,True,Cursor,2025-03-01,7,2023-11-13,False
+5,Benício Alves,balves,Staff Engineer,L4,Payments,True,Cursor,2025-03-01,9,2021-01-28,False
+6,Pedro Henrique da Conceição,pda conceição,Senior Engineer,L3,Data,False,none,,6,2024-07-30,True
+7,Benjamim Novais,bnovais,Junior Engineer,L1,Payments,True,Cursor,2025-03-01,2,2021-12-20,False
+8,Zoe Leão,zleão,Tech Lead,L5,Growth,True,Cursor,2025-03-01,10,2022-02-25,True
+9,Manuela Pastor,mpastor,Pleno Engineer,L2,Payments,True,Cody,2025-03-01,4,2022-08-24,False
+10,Anthony Gabriel Teixeira,ateixeira,Senior Engineer,L3,Mobile,True,Cursor,2025-03-01,7,2021-08-21,False
+11,Lavínia Fernandes,lfernandes,Staff Engineer,L4,Growth,True,Cody,2025-03-01,7,2022-08-23,True
+12,Leonardo Cunha,lcunha,Junior Engineer,L1,Payments,True,Cursor,2025-03-01,2,2023-02-21,False
+13,Gustavo Borges,gborges,Tech Lead,L5,Growth,True,Cody,2025-03-01,10,2023-07-06,True
+14,Gael Fogaça,gfogaça,Senior Engineer,L3,Mobile,False,none,,6,2023-03-16,True
+15,Vinícius Aparecida,vaparecida,Pleno Engineer,L2,Data,True,Cursor,2025-03-01,6,2024-03-09,False
+16,Stella Campos,scampos,Tech Lead,L5,Platform,True,Copilot,2025-03-01,12,2023-07-02,True
+17,Emanuel Novaes,enovaes,Junior Engineer,L1,Platform,True,Cody,2025-03-01,4,2022-10-09,False
+18,Eloá Oliveira,eoliveira,Senior Engineer,L3,Mobile,True,Cody,2025-03-01,7,2021-11-30,False
+19,Davi Miguel Aparecida,daparecida,Tech Lead,L5,Payments,True,Cody,2025-03-01,11,2025-11-26,True
+20,Rafael Vargas,rvargas,Pleno Engineer,L2,Mobile,True,Copilot,2025-03-01,3,2022-09-28,False
+21,Emanuel da Conceição,eda conceição,Tech Lead,L6,Growth,False,none,,12,2021-02-19,True
+22,Gabrielly da Mota,gda mota,Junior Engineer,L1,Data,True,Cody,2025-03-01,2,2024-02-19,False
+23,Emanuella Castro,ecastro,Junior Engineer,L1,Data,False,none,,1,2023-06-06,False
+24,Daniela Costela,dcostela,Senior Engineer,L3,Growth,True,Copilot,2025-03-01,7,2025-12-24,True
+25,Vitor Sampaio,vsampaio,Pleno Engineer,L2,Payments,True,Copilot,2025-03-01,6,2026-02-03,False
+26,Diego Pereira,dpereira,Staff Engineer,L4,Data,False,none,,8,2025-09-05,True
+27,Luigi Nascimento,lnascimento,Senior Engineer,L3,Data,True,Cursor,2025-03-01,8,2022-05-12,False
+28,Luan Martins,lmartins,Tech Lead,L5,Platform,False,none,,11,2023-07-04,True
+29,Vitor Hugo Porto,vporto,Staff Engineer,L4,Mobile,True,Cody,2025-03-01,7,2026-02-18,True
+30,Pedro Lucas Rodrigues,prodrigues,Junior Engineer,L1,Platform,True,Cody,2025-03-01,2,2023-01-14,False
+31,Daniel da Conceição,dda conceição,Junior Engineer,L1,Platform,True,Copilot,2025-03-01,1,2020-07-20,False
+32,Ana Vitória Guerra,aguerra,Tech Lead,L5,Payments,False,none,,10,2022-07-22,True
+33,Davi Lucca Cunha,dcunha,Senior Engineer,L3,Data,True,Cody,2025-03-01,8,2025-02-07,True
+34,Ana Vitória Cunha,acunha,Senior Engineer,L3,Payments,True,Copilot,2025-03-01,8,2025-11-08,True
+35,Melina Gonçalves,mgonçalves,Senior Engineer,L3,Payments,False,none,,5,2025-09-30,True
+36,Maria Cecília Casa Grande,mcasa grande,Staff Engineer,L4,Payments,False,none,,8,2022-07-13,True
+37,João Lucas da Cruz,jda cruz,Senior Engineer,L3,Growth,True,Copilot,2025-03-01,8,2025-01-20,True
+38,Stephany da Luz,sda luz,Tech Lead,L5,Payments,True,Cody,2025-03-01,9,2025-04-02,True
+39,Liz Pacheco,lpacheco,Senior Engineer,L3,Platform,True,Copilot,2025-03-01,6,2023-09-04,True
+40,Eloá Câmara,ecâmara,Senior Engineer,L3,Payments,False,none,,6,2021-06-15,True
